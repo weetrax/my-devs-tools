@@ -13,6 +13,7 @@ A list of useful Web-development/Web-design tools and libraries for Frontend.
 - Open source photos & videos - [Pexels](https://www.pexels.com/)
 - Icons & illustrations [Icones8](https://icones8.fr/)
 
+
 ## Icons
 - Icons library - [Fontawesome](https://fontawesome.com/)
 - SVG Icons - [Ikonate](https://ikonate.com/)
@@ -20,12 +21,15 @@ A list of useful Web-development/Web-design tools and libraries for Frontend.
 ## CSS Loaders
 - CSS loading animations - [Whirl](https://whirl.netlify.app/)
 - Simple CSS Spinners - [Spinkit](https://tobiasahlin.com/spinkit/)
+- Single Element CSS Spinners - [Single Element CSS Spinners](https://projects.lukehaas.me/css-loaders/)
 
 ## Fonts
 - Google Font - [Google Fonts](https://fonts.google.com/)
 
 ## Others
--  Image Stack Effect - [Simple Stack Effects](https://tympanus.net/Development/StackEffects/)
+- Design Principles - [Design Principles](http://learndesignprinciples.com/)
+- Favicons Badges Animation - [favico.js](http://lab.ejci.net/favico.js/)
+- Image Stack Effect - [Simple Stack Effects](https://tympanus.net/Development/StackEffects/)
 
 ## Tailwind CSS
 - Tailwind CSS Documentation - [Docs](https://tailwindcss.com/)
@@ -35,6 +39,13 @@ A list of useful Web-development/Web-design tools and libraries for Frontend.
 ## UI/UX Inspirations
 - Website template marketplace - [Theme Forest](https://themeforest.net/)
 - Designers inspirations - [Dribbble](https://dribbble.com/)
+- Call to Idea | Material design patterns for websites - [Call to Idea](http://www.calltoidea.com/)
+
+## Javascript
+- Glide.js is a dependency-free JavaScript ES6 slider and carousel - [Glide.js](https://glidejs.com/docs/)
+
+## Configuration
+- Frontend build config generator - [Frontend build config generator](https://createapp.dev/webpack)
 
 ## Software
 - Collaborative interface design tool - [Figma](https://www.figma.com/)
