@@ -18,6 +18,7 @@ More tools at https://github.com/gusgad/DevTools
 ## Icons
 - Icons library - [Fontawesome](https://fontawesome.com/)
 - SVG Icons - [Ikonate](https://ikonate.com/)
+- Animated icons - [useAnimations](https://useanimations.com/)
 
 ## CSS Loaders
 - CSS loading animations - [Whirl](https://whirl.netlify.app/)
@@ -31,6 +32,8 @@ More tools at https://github.com/gusgad/DevTools
 - Design Principles - [Design Principles](http://learndesignprinciples.com/)
 - Favicons Badges Animation - [favico.js](http://lab.ejci.net/favico.js/)
 - Image Stack Effect - [Simple Stack Effects](https://tympanus.net/Development/StackEffects/)
+- Products teaser with animated mockup - [Animockup](https://animockup.com/)
+- UI Color palette - [Atmos.style](https://atmos.style/)
 
 ## Tailwind CSS
 - Tailwind CSS Documentation - [Docs](https://tailwindcss.com/)
